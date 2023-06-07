@@ -4,7 +4,7 @@
 STEP 1: 
 NPM INSTALL : to Run this file first write command NPM INSTALL to install required libraries
 
-STEP 2: run using command NPM START
+STEP 2: run using command "nodemon app.js"
 
 
 
